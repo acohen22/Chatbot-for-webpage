@@ -1,2 +1,2 @@
 # Chatbot
- chatbot that scan a open webpage
+ chatbot that opens and scans webpages
